@@ -10,7 +10,7 @@ Install bundler with `gem install bundler -v 2.4.19`
 
 Run `bundle install` to run Bundler
 
-Ruby `ruby process.rb --sample` to run the basic case. It should output 'it works' on console.
+Ruby `ruby run.rb --sample` to run the basic case. It should output 'it works' on console.
 
 
 ## Introduction
